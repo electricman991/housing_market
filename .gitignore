@@ -1,0 +1,4 @@
+__pycache__/
+housing_venv/
+housing_data/
+test.py
