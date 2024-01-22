@@ -47,6 +47,9 @@ Once everthing has been set up you can access data by navigating to localhost:80
 
 ## Example Queries
 
+
+https://github.com/electricman991/housing_market/assets/82842730/5e033d27-f54e-4110-b3da-df7216936f20
+
 Get housing data for cities across the US
 ```
 localhost:8000/housing_prices/city
